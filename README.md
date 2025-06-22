@@ -16,7 +16,7 @@ Welcome to my portfolio showcasing **no-code data analytics** projects powered b
 
 ---
 
-## 🏢 Project 1: Tata Collections Strategy – Delinquency Prediction 💸
+## Tata Collections Strategy – Delinquency Prediction 💸
 
 **Goal:** Identify customers likely to miss payments and reduce financial risk using explainable, GenAI-generated logic.
 
@@ -33,42 +33,3 @@ Welcome to my portfolio showcasing **no-code data analytics** projects powered b
 
 ---
 
-## 💼 Project 2: PwC Forage Job Sim – BI Dashboard (No-Code) 📉
-
-**Goal:** Build a business intelligence dashboard for a client using Excel + Power BI, guided by GenAI insights.
-
-### 🔧 Tools Used:
-- Excel (cleaning guided by Gemini)
-- Power BI (drag-and-drop + GPT-generated DAX formulas)
-- ChatGPT for narrative insights and summaries
-
-### 🧠 Highlights:
-- ⚡ Performed data cleaning using Gemini step-by-step guidance
-- 📊 Designed dashboards based on GPT's field grouping suggestions
-- 📋 Wrote business insights and executive slides using AI-generated summaries
-
----
-
-## 🌱 Project 3: BCGx Data Science – Customer Churn Prediction 🔁
-
-**Goal:** Predict why customers leave an energy provider and guide retention strategies using GenAI.
-
-### 🔧 Tools Used:
-- ChatGPT for model generation (Random Forest, Logistic Regression)
-- Prompt-based feature engineering with Gemini
-- Canva + PowerPoint for stakeholder communication
-
-### 🧠 Highlights:
-- 🎯 Identified churn drivers via AI-enhanced insights
-- 🔍 Used GenAI for customer segmentation logic
-- 🗂️ Created presentation-ready summaries and visuals with zero-code
-
----
-
-## 🚀 Why No-Code GenAI Analytics Matters
-
-- ✅ Faster Prototyping and Testing
-- ✅ Human-Readable Models and Explanations
-- ✅ Ideal for Non-Technical Teams
-- ✅ Encourages Ethical, Transparent AI
-- ✅ Perfect for Consulting & C
